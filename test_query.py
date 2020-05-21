@@ -1,5 +1,5 @@
-from credentials import cloud_id, user, password
-from connection import elastic_instance
+from elastic.credentials import cloud_id, user, password
+from elastic.connection import elastic_instance
 import pandas as pd
 
 def state_df():

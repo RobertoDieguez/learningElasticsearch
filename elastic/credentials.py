@@ -1,0 +1,3 @@
+cloud_id = "learning:ZWFzdHVzMi5henVyZS5lbGFzdGljLWNsb3VkLmNvbTo5MjQzJDkyNDhjZmE0Y2Q2YTQ0ZjViNDk0ZWRiOGM3M2RlZjNiJDNhYTNiMDhjMTRkZjQzZjE5ZWI0MjRiY2NiOWVmOTBj"
+user = "elastic"
+password = "Gf1KC2CJ1XQM6ZbovO33ZB4Y"
